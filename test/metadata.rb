@@ -1,24 +1,20 @@
-name 'apache'
-maintainer 'yurspandu'
-maintainer_email 'yurspandu@gmail.com'
+name 'test'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
 license 'All Rights Reserved'
-description 'Installs/Configures apache'
-long_description 'Installs/Configures apache'
-<<<<<<< HEAD
-version '0.2.0'
-=======
+description 'Installs/Configures test'
+long_description 'Installs/Configures test'
 version '0.1.0'
->>>>>>> 86c3102bc286fea403350b39984b77f95179d8de
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/apache/issues'
+# issues_url 'https://github.com/<insert_org_here>/test/issues'
 
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/apache'
+# source_url 'https://github.com/<insert_org_here>/test'
